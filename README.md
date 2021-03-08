@@ -1,2 +1,2 @@
-# 34.122.192.147
-Coursera
+I am editing the README file. Adding some more details about the project description.
+
